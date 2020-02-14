@@ -7,13 +7,14 @@ include_once("../includes/header1.php"); ?>
   <h1 align="center" id="team">Our Team</h1>
   <br>
   <br>
-  
+  <!--testing 1--->
   <div class="row">
     <div class="col-lg">
       <div class="card text-white bg-dark mb-3">
         <div class="card-header" align="center">Developer</div>
           <div class="card-body bg-light"> <img src="../images/hasmat.jpg" height="155" width="155"/> </div>
           <div class="card-footer" align="center">
+          <!--//testing 2-->
             <p>Hasmat Noorani</p>
               <a href="https://www.facebook.com/hasmat.noorani.1" class="fa fa-facebook"></a> <a href="https://www.instagram.com/hasmatnoorani/" class="fa fa-instagram"></a> <a href="" class="fa fa-linkedin"></a> </div>
           </div>
