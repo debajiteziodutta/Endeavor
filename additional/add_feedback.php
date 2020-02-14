@@ -1,4 +1,5 @@
 <?php
+//testing1 file 2
 include('../connection/db.php');
 if(!isset($_SESSION['email'])){
   header("Location: signin.php");
