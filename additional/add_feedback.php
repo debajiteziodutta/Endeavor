@@ -1,5 +1,6 @@
 <?php
-//testing1 file 2
+//testing1 file 2 
+//testing 2 file 2 on github webpage
 include('../connection/db.php');
 if(!isset($_SESSION['email'])){
   header("Location: signin.php");
