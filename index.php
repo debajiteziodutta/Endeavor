@@ -1,4 +1,5 @@
 <?php
+// testing 1
 include('connection/db.php');
 if(isset($_SESSION['email'])){
     $email = $_SESSION['email'];
